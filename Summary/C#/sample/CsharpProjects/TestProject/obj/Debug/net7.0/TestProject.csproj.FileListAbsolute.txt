@@ -1,0 +1,15 @@
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.AssemblyReference.cache
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/Users/chouyoshiaki/Documents/summary/Summary/C#/sample/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
